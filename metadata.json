@@ -1,0 +1,6 @@
+{
+  "name": "TacitAI - Internal Knowledge & Project Reuse Intelligence",
+  "description": "TacitAI turns hidden knowledge into real business value by detecting duplicate work, finding similar internal projects, and recommending reusable components.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
